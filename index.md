@@ -1,24 +1,16 @@
 ---
 layout: front
+title: Présentation
 ---
 
 
-Je pense qu’il est important aujourd’hui de relever le défi de **replacer le centre-ville au cœur de la ville**
-afin de remettre en place un **lien social et une économie de proximité**. Il faut aujourd’hui développer le flux piétonnier en centre-ville, améliorer la notoriété et la fidélisation client, doper le chiffre d’affaire des commerçants...
+Le commerce de proximité est au plan local un facteur indispensable à l'équilibre urbain. Il est générateur de lieux de **convivialité et d'échange**. Les activités qui rayonnent autour de l'artisanat et du commerce font figure de « locomotives » afin de créer des **pôles de vie** qui permettent de **dynamiser** des quartiers ou des villes.
 
-Mon objectif est de **faire de vos utopies des leviers de changements et de développement de vos centres villes**. Pour cela il est important de **co-construire des projets innovants** et de **les manager afin de les concrétiser**.
+Cepandant, depuis 2010, la **vacance commerciale** s'est accentuée, gagnant en moyenne un point par an. En 2016, elle atteint en **moyenne 11,3 %** dans le cœur des villes de plus de 25.000 habitants. Ce sont les plus petites villes (moins de 100.000 habitants) qui accusent le plus le coup - taux de vacance moyen de 12,1 % en 2016 -, les grandes villes de plus 250.000 habitants s'en sortent bien mieux (taux inférieur à 8,5 %)
 
+La **dévitalisation commerciale** de nombreux centre-ville se confirme. Au regard des chiffres, cela témoigne « d’un déclin structurel de la commercialité du centre-ville ». Outre une dévitalisation commerciale, nous constatons aujourd'hui des **signes de fragilité économique** observés dans le secteur du commerce et des concurrences fortes entre les différents acteurs (centralité vs périphérie et e-commerce vs commerce physique.
+<img class="fit image" style="float:left;max-width:400px;margin-right:200px;margin-left:200px;margin-top:10px;margin-bottom:5px" src="/images/fulls/img prez.png" alt="Cercle vertueux">
 
-J'interviens afin de:
+Mes services répondent aux **besoins** des collectivités et des unions commerçantes de **redynamiser** leur centres villes afin de **recréer le lien de proximité et de confiance vers le consommateur**, pour que celui-ci réinvestisse le centre-ville ce qui permettra à terme un **dynamisme économique, social, sociétal et culturel.**
 
-<img class="fit image" style="float:left;max-width:100px;margin-right:10px;" src="/images/fulls/lumiere.svg" alt="Matériel pour les ateliers d'intelligence collective">
-
-**Faciliter la démarche d’intelligence collective** afin que les idées soient innovantes et résultent d’une co-construction entre la collectivité, les commerçants et les usagers. C’est une occasion de **donner le pouvoir à chacun d’entre vous de s’engager, d’agir et d’être acteur du projet**.
-
-<img class="fit image" style="float:left;max-width:100px;margin-right:10px;" src="/images/fulls/projet.svg" alt="Matériel pour les ateliers d'intelligence collective">
-
-**Passer de l’idée à la mise en place d’un projet structuré**, réalisable et cohérent avec la problématique de départ. Il est important de **garder la dynamique collective créee** lors de la phase d’intelligence collective car pour moi, être acteur et être reconnu comme tel, est une condition indispensable à l’engagement.
-
-<img class="fit image" style="float:left;max-width:100px;margin-right:10px;" src="/images/fulls/accompagner.svg" alt="Matériel pour les ateliers d'intelligence collective">
-
-**Accompagner dans la réalisation concrète de vos projets** afin que ceux-ci voient le jour et aient les retombées escomptées. Le centre-ville se trouve alors **dynamisé grâce à l’énergie créative de chacun**.
+Mon métier est de **coordonner les efforts et les ressources** des collectivités et des unions commerçantes pour **promouvoir le commerce et l’artisanat**, **encourager la diversité et donner des raisons aux usagers de réaliser leur achat en centre-ville.**
