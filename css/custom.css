@@ -20,3 +20,135 @@ h2#headline{
 .image.avatar img{
   box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 100px 0 rgba(0,0,0,.12),0 2px 4px -1px;
 }
+
+.highlight-link{
+  display:block;
+  width:100%;
+  text-align: right;
+  color: #FF3D00;
+  text-decoration: none;
+  border: none;
+}
+.highlight-link, .highlight-link:active, .highlight-link:hover{
+  text-decoration: none;
+}
+/* cards layout */
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: stretch;
+}
+.cards>.card {
+  display:flex;
+  flex-direction:column;
+  box-sizing: border-box;
+  width:100%;
+  min-width:300px;
+  flex-grow:1;
+  padding: 10px;
+}
+
+.cards>.card>* {
+  width: 100%;
+  border-style: solid;
+  padding:5px;
+  flex-grow:1;
+  border-left-width: 1px;
+  border-right-width: 1px;
+}
+/* color alternance */
+.cards>.card:nth-child(2n+1) >*{
+  border-color: #4527A0;
+}
+.cards>.card:nth-child(2n+1) > .card-title{
+  background:#4527A0;
+}
+.cards>.card:nth-child(2n+1) > .card-text-highlight{
+  color: #4527A0;
+}
+
+.cards>.card:nth-child(2n) >*{
+  border-color: #FF3D00;
+}
+.cards>.card:nth-child(2n) > .card-title{
+  background: #FF3D00;
+}
+.cards>.card:nth-child(2n) > .card-text-highlight{
+  color: #FF3D00;
+}
+
+.cards>.card> *:first-child {
+  border-top-left-radius: 2px;
+  border-top-right-radius: 2px;
+  flex-grow:0;
+  border-top-width: 1px;
+}
+
+.cards>.card> *:last-child {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  flex-grow:0;
+  border-bottom-width: 1px;
+}
+
+.cards >.card .card-text {
+  text-align: justify;
+}
+
+.cards>.card .card-title {
+  color:white;
+}
+
+.cards>.card .card-content {
+
+}
+
+.icons-banner{
+  background: rgba(255, 61, 0, 1);
+  width:100%;
+  padding: 10px;
+}
+.icons-banner>div {
+  max-width: 1200px;
+  display: flex;
+  max-width: 1200px;
+  margin:auto;
+  justify-content: center;
+}
+.icons-banner>div>a{
+  box-sizing: border-box;
+  padding: 0 15px;
+  flex-grow:0;
+  flex-shrink: 0;
+}
+.icons-banner>div>a, .icons-banner>div>a:active, .icons-banner>div>a:hover {
+  text-decoration: none;
+  border: none;
+}
+.icons-banner>div>a>div {
+  width:150px;
+  z-index: 0;
+  height:150px;
+  position:relative;
+  flex-direction: column;
+  border: 2px solid #FFFFFF;
+}
+.icons-banner>div>a>div:after {
+  content: "";
+  position: absolute;
+  top:-2px;
+  left:50%;
+  bottom:-2px;
+  margin-left: -35px;
+  width: 70px;
+  background: rgba(255, 61, 0, 1);
+  z-index: 1;
+}
+.icons-banner>div>a>div>* {
+  margin: auto;
+  position: relative;
+  text-align: center;
+  z-index: 2;
+  color:white;
+}
