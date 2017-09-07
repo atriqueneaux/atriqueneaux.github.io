@@ -1,25 +1,41 @@
 ---
 layout: front
-title: Présentation
+title:
+cards:
+  - title: Start'up territoire au STAB Vélodrome de Roubaix.
+    image: /images/sut.jpg
+    size: 50
+    text: >
+      Start'up territoire c'est une grande soirée portant sur 10 grands enjeux de territoire, 100 défis à relever, 1000 personnes mobilisées, 250 emplois à créer. Nous avons la eut la chance d'être animateurs bénévolent sur un défi portant sur l'innovation dans le territoire. Merci aux participants d'avoir créer 3 beaux projets, qui je l'espère, vont se développer rapidement !
+      La prochaine étape ? La présentation du concept et des projets sur le salon Créer 2017 afin de faire connaître et perdurée cette belle dynamique !
+
+  - title: Votre contact
+    size: 50
+    text: >
+        Mon métier est d'accompagner les collectivités et les unions commerçantes vers un renouveau du centre-ville. Ma volonté est de résoudre les problématiques qui se posent pour pour garder un centre-ville dynamique et commerçant ou il fait bon flâner et passer du bon temps. Mon objectif est de prendre en compte vos spécificités et vos contraintes pour en faire des leviers d'action et des forces pour mener à bien vos objectifs.
+
+        Contactez-moi au 06 60 86 91 05 ou par mail à triqueneaux.aline@gmail.com
+    highlight: Aline TRIQUENEAUX Dirigeante
+
 ---
 
-# l'entreprise
+## L'entreprise
 
-Le commerce de proximité est au plan local un facteur indispensable à l'équilibre urbain. Il est générateur de lieux de **convivialité et d'échange**. Les activités qui rayonnent autour de l'artisanat et du commerce font figure de « locomotives » afin de créer des **pôles de vie** qui permettent de **dynamiser** des quartiers ou des villes.
+La dévitalisation commerciale s'aggrave dans les centres-villes. Le taux de vacance commercial atteint une moyenne de 10,4 % en 2015 dans la plupart des villes moyennes. Ajoutons à cela des signes de fragilité économiques observé dans le secteur du commerce et une concurrence accrue entre les différents acteurs (centralité vs périphérie et e-commerce et commerces physique).
 
+La dévitalisation commerciale des coeurs de villes représente un enjeu sociétal fort. Son origine et ses conséquences dépassent le seul sujet de l'activité commercial.
 
-#nos convictions
-Cepandant, depuis 2010, la **vacance commerciale** s'est accentuée, gagnant en moyenne un point par an. En 2016, elle atteint en **moyenne 11,3 %** dans le cœur des villes de plus de 25.000 habitants. Ce sont les plus petites villes (moins de 100.000 habitants) qui accusent le plus le coup - taux de vacance moyen de 12,1 % en 2016 -, les grandes villes de plus 250.000 habitants s'en sortent bien mieux (taux inférieur à 8,5 %)
+Pour nous le commerce de proximité est au plan local un facteur indispensable à l'équilibre urbain. Il est générateur de lieu de convivialité et d'échange. Les activités qui rayonnent autour de l'artisanat et du commerce font figurent de locomotives afin de créer des pôles de vies qui permettent de dynamiser des quartiers ou des villes.
 
-La **dévitalisation commerciale** de nombreux centre-ville se confirme. Au regard des chiffres, cela témoigne « d’un déclin structurel de la commercialité du centre-ville ». Outre une dévitalisation commerciale, nous constatons aujourd'hui des **signes de fragilité économique** observés dans le secteur du commerce et des concurrences fortes entre les différents acteurs (centralité vs périphérie et e-commerce vs commerce physique.
-<img class="fit image" style="float:left;max-width:400px;margin-right:200px;margin-left:200px;margin-top:10px;margin-bottom:5px" src="/images/fulls/img prez.png" alt="Cercle vertueux">
+Il est de l'affaire de tous, aujourd'hui, de tendre vers un renouveau des centres-villes. Nous voulons participer à cette co-construction au côté des commerçants, des collectivités et des usagers
 
-# Notre offre
+## Nos convictions
 
-Mes services répondent aux **besoins** des collectivités et des unions commerçantes de **redynamiser** leur centres villes afin de **recréer le lien de proximité et de confiance vers le consommateur**, pour que celui-ci réinvestisse le centre-ville ce qui permettra à terme un **dynamisme économique, social, sociétal et culturel.**
+Nous sommes convaincus que le centre-ville doit revenir au coeur de la ville.Pour cela nous répondont aux besoins, des collectivités et des unions commerciales, de redynamisation afin de recréer le lien de proximité et de confiance vers le consommateur. L'objectif est que celui-ci réinvestisse le centre-ville afin de recréer un dynamisme économique, social, sociétal et culturel.
 
-Mon métier est de **coordonner les efforts et les ressources** des collectivités et des unions commerçantes pour **promouvoir le commerce et l’artisanat**, **encourager la diversité et donner des raisons aux usagers de réaliser leur achat en centre-ville.**
+Notre métier est de coordonner les efforts et les ressources des collectivités et des unions commerciales pour promouvoir le commerce et l'artisanat, encourager la diversité et donner des raisons aux usagers de réaliser leur achats en centre-ville.
 
+## Nos offres
 
 <div class="icons-banner">
   <div>
@@ -53,3 +69,6 @@ Mon métier est de **coordonner les efforts et les ressources** des collectivit�
 </div>
 
 {% include link.html url="/offres" text="En savoir plus" %}
+
+
+{% include cards.html cards=page.cards %}

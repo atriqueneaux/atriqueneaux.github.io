@@ -1,3 +1,6 @@
+#main{
+  padding-top: 10px;
+}
 #main p{
   text-align: justify;
 }
@@ -16,6 +19,12 @@ h1#name{
 }
 h2#headline{
 
+
+}
+section#content-main h2{
+  color:#4527a0;
+  font-weight: bold;
+  padding-bottom: 20px
 }
 .image.avatar img{
   box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 100px 0 rgba(0,0,0,.12),0 2px 4px -1px;
@@ -43,12 +52,23 @@ h2#headline{
   display:flex;
   flex-direction:column;
   box-sizing: border-box;
-  width:100%;
   min-width:300px;
   flex-grow:1;
   padding: 10px;
 }
+.cards>.card.card-100{
+  width:100%;
 
+}
+.cards>.card.card-50{
+  width:50%;
+
+}
+.cards>.card>.card-image{
+  max-width:100%;
+  display:block;
+  margin:auto;
+}
 .cards>.card>* {
   width: 100%;
   border-style: solid;
