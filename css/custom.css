@@ -26,6 +26,21 @@ section#content-main h2{
   font-weight: bold;
   padding-bottom: 20px
 }
+
+section#section-contact{
+  display:flex;
+}
+section#section-contact>div {
+  width:50%;
+}
+
+section#section-contact>#contact>span{
+  display:block;
+  width:100%;
+}
+section#section-contact #contact-name{
+  font-weight: bold;
+}
 .image.avatar img{
   box-shadow: 0 4px 5px 0 rgba(0,0,0,.14),0 1px 100px 0 rgba(0,0,0,.12),0 2px 4px -1px;
 }

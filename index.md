@@ -1,22 +1,6 @@
 ---
 layout: front
 title:
-cards:
-  - title: Start'up territoire au STAB Vélodrome de Roubaix.
-    image: /images/sut.jpg
-    size: 50
-    text: >
-      Start'up territoire c'est une grande soirée portant sur 10 grands enjeux de territoire, 100 défis à relever, 1000 personnes mobilisées, 250 emplois à créer. Nous avons la eut la chance d'être animateurs bénévolent sur un défi portant sur l'innovation dans le territoire. Merci aux participants d'avoir créer 3 beaux projets, qui je l'espère, vont se développer rapidement !
-      La prochaine étape ? La présentation du concept et des projets sur le salon Créer 2017 afin de faire connaître et perdurée cette belle dynamique !
-
-  - title: Votre contact
-    size: 50
-    text: >
-        Mon métier est d'accompagner les collectivités et les unions commerçantes vers un renouveau du centre-ville. Ma volonté est de résoudre les problématiques qui se posent pour pour garder un centre-ville dynamique et commerçant ou il fait bon flâner et passer du bon temps. Mon objectif est de prendre en compte vos spécificités et vos contraintes pour en faire des leviers d'action et des forces pour mener à bien vos objectifs.
-
-        Contactez-moi au 06 60 86 91 05 ou par mail à triqueneaux.aline@gmail.com
-    highlight: Aline TRIQUENEAUX Dirigeante
-
 ---
 
 ## L'entreprise
