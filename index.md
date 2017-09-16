@@ -1,23 +1,43 @@
 ---
 layout: front
 title:
+cards:
+  - title: Start'up territoire au STAB Vélodrome de Roubaix.
+    image: /images/sut.jpg
+    size: 50
+    text: >
+      Start'up territoire c'est une grande soirée portant sur 10 grands enjeux de territoire, 100 défis à relever, 1000 personnes mobilisées, 250 emplois à créer. Nous avons la eut la chance d'être animateurs bénévolent sur un défi portant sur l'innovation dans le territoire. Merci aux participants d'avoir créer 3 beaux projets, qui je l'espère, vont se développer rapidement !
+      La prochaine étape ? La présentation du concept et des projets sur le salon Créer 2017 afin de faire connaître et perdurée cette belle dynamique !
+
+  - title: Votre contact
+    size: 50
+    text: >
+        Mon métier est d'accompagner les collectivités et les unions commerçantes vers un renouveau du centre-ville. Ma volonté est de résoudre les problématiques qui se posent pour pour garder un centre-ville dynamique et commerçant ou il fait bon flâner et passer du bon temps. Mon objectif est de prendre en compte vos spécificités et vos contraintes pour en faire des leviers d'action et des forces pour mener à bien vos objectifs.
+
+        Contactez-moi au 06 60 86 91 05 ou par mail à triqueneaux.aline@gmail.com
+    highlight: Aline TRIQUENEAUX Dirigeante
+
 ---
 
 ## L'entreprise
 
-La dévitalisation commerciale s'aggrave dans les centres-villes. Le taux de vacance commercial atteint une moyenne de 10,4 % en 2015 dans la plupart des villes moyennes. Ajoutons à cela des signes de fragilité économiques observé dans le secteur du commerce et une concurrence accrue entre les différents acteurs (centralité vs périphérie et e-commerce et commerces physique).
+La dévitalisation commerciale des coeurs de villes représente un enjeu sociétal fort. Son origine et ses conséquences dépassent le seul sujet de l'activité commerciale.
 
-La dévitalisation commerciale des coeurs de villes représente un enjeu sociétal fort. Son origine et ses conséquences dépassent le seul sujet de l'activité commercial.
+La dévitalisation commerciale s'aggrave dans les centres-villes. Le taux de vacance commerciale atteint une moyenne de 10,4 % en 2015 dans la plupart des villes moyennes. Ajoutons à cela des signes de fragilité économiques observés dans le secteur du commerce et une concurrence accrue entre les différents acteurs (centralité vs périphérie et e-commerce et commerces physiques).
 
 Pour nous le commerce de proximité est au plan local un facteur indispensable à l'équilibre urbain. Il est générateur de lieu de convivialité et d'échange. Les activités qui rayonnent autour de l'artisanat et du commerce font figurent de locomotives afin de créer des pôles de vies qui permettent de dynamiser des quartiers ou des villes.
 
-Il est de l'affaire de tous, aujourd'hui, de tendre vers un renouveau des centres-villes. Nous voulons participer à cette co-construction au côté des commerçants, des collectivités et des usagers
+Il est de l'affaire de tous, aujourd'hui, de tendre vers un renouveau des centres-villes. Nous voulons participer à cette co-construction au côté des commerçants, des collectivités et des usagers.
 
 ## Nos convictions
 
-Nous sommes convaincus que le centre-ville doit revenir au coeur de la ville.Pour cela nous répondont aux besoins, des collectivités et des unions commerciales, de redynamisation afin de recréer le lien de proximité et de confiance vers le consommateur. L'objectif est que celui-ci réinvestisse le centre-ville afin de recréer un dynamisme économique, social, sociétal et culturel.
+<b>Co-construction, Coordination, Coopération </b> sont les principes actifs pour une redynamisation de nos centres-villes.
 
-Notre métier est de coordonner les efforts et les ressources des collectivités et des unions commerciales pour promouvoir le commerce et l'artisanat, encourager la diversité et donner des raisons aux usagers de réaliser leur achats en centre-ville.
+Chacun poursuit des objectifs et met en oeuvre des stratégies qui lui sont propores. Au travers de l'impulsion d'un travail d'animation et de rapprochement, les intérêts des parties prenantes convergent et trouvent un terrain de coopération aux bénéfices de tous !
+
+Nous sommes convaincus que le centre-ville doit revenir au coeur de la ville. Pour cela nous répondons aux besoins, des collectivités et des unions commerciales, de redynamisation afin de recréer le lien de proximité et de confiance vers le consommateur. L'objectif est que celui-ci réinvestisse le centre-ville afin de recréer un dynamisme économique, social, sociétal et culturel.
+
+Notre métier est de coordonner les efforts et les ressources des collectivités et des unions commerciales pour promouvoir le commerce et l'artisanat, encourager la diversité et donner des raisons aux usagers de réaliser leur achats en centre-ville. C'est aussi la co-contruction de solutions inédites pour répondre aux besoins et problématiques locales.
 
 ## Nos offres
 
