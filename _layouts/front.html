@@ -1,44 +1,56 @@
 ---
 layout: default
 ---
-<div id="main">
-  <section>
+<div id="main" class="container">
+  {% if page.title %}
+  <section id="section-title">
       <header id="main-title">
         <h1>{{page.title}}</h1>
       </header>
-      <section id="content-main">
-        {{content}}
-      </section>
-  </section>
 
-  <section>
-    <div class="row">
+  </section>
+  {% endif %}
+  <section id="content-main">
+    {{content}}
+  </section>
+  <section id="section-recent-posts">
+    <h2> Actualités</h2>
+    <div class="card-deck" id="recent-posts">
       {% for post in site.posts %}
-        <article class="{% cycle '6u', '6u$' %} 12u(small)">
-          <header>
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          </header>
-          <section>
-            {{ post.excerpt }}
-          </section>
-          <footer>
-            <ul class="actions">
-              <li><a href="{{ post.url }}" class="button">Read More</a></li>
-            </ul>
-          </footer>
+        <article class="card border-primary ">
+          {%if post.image%}
+            <img class="card-img-top" src="{{post.image}}" alt="{{post.title}}">
+          {% else %}
+            <div class="card-header">
+            <h3  class="card-title">{{ post.title }}</h3>
+            </div>
+          {%endif %}
+          <div class="card-body">
+            {%if post.image%}<h3  class="card-title">{{ post.title }}</h3>{%endif %}
+            <div class="card-text">
+              {{ post.excerpt }}
+            </div>
+             <a href="{{post.url}}" class="btn btn-primary">En savoir plus</a>
+          </div>
         </article>
       {% endfor %}
     </div>
   </section>
-  <section id="section-contact">
-    <div id="map">
-      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2527.0082862332793!2d3.1560244159120776!3d50.70123077714378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c328dfad101edf%3A0x2551d389c0607e14!2sImaginarium+-+Plaine+Images!5e0!3m2!1sfr!2sfr!4v1505061473601" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+  <section id="section-contact" class="row">
+    <div class="col-lg-4 col-md-6 col-sm-12">
+      <div id="map" class="embed-responsive embed-responsive-4by3">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2527.0082862332793!2d3.1560244159120776!3d50.70123077714378!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c328dfad101edf%3A0x2551d389c0607e14!2sImaginarium+-+Plaine+Images!5e0!3m2!1sfr!2sfr!4v1505061473601" width="400" height="300" frameborder="0" style="border:0" allowfullscreen></iframe>
+      </div>
     </div>
-    <div id="contact">
-      <h1 class="contact-title"> Votre contact</h1>
-      <span id="contact-name">Aline Triqueneaux</span>
-      <span id="contact-phone">+33 (0)6 60 86 91 05</span>
-      <span id="contact-mail">triqueneaux.aline@gmail.com<span>
+    <div class="col-lg-8 col-md-6 col-sm-12">
+      <div id="contact">
+        <h2 class="contact-title"> Votre contact</h2>
+        <ul id="contact-lines">
+          <li id="contact-name">Aline Triqueneaux</li>
+          <li id="contact-phone">+33 (0)6 60 86 91 05</li>
+          <li id="contact-mail">triqueneaux.aline@gmail.com</li>
+        </ul>
+      </div>
     </div>
   </section>
 </div>

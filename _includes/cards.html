@@ -1,21 +1,16 @@
-<div class="cards">
+<div class="card-group">
   {% for card in include.cards %}
-  <div class="card card-{{card.size |default: 100}}">
-
-    <h3 class="card-title">
-      {{card.title}}
-    </h3>
-    {% if card.image %}
-    <img class="card-image" src="{{card.image}}">
-    {% endif %}
-    <div class="card-text">
-      {{card.text}}
-    </div>
+  <div class="card" >
+  {% if card.image %}
+  <img class="card-img-top" src="{{card.image}}" alt="{{card.title}}">
+  {% endif %}
+  <div class="card-body">
+    <h4 class="card-title">{{card.title}}</h4>
+    <p class="card-text">{{card.text}}</p>
     {% if card.highlight %}
-    <div class="card-text-highlight">
-      {{card.highlight}}
-    </div>
+      <p class="card-text"><small class="text-muted">{{card.highlight}}</small></p>
     {% endif %}
   </div>
+
   {%endfor %}
 </div>
