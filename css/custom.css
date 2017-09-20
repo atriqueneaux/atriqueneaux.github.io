@@ -1,6 +1,4 @@
-#main{
-  padding-top: 10px;
-}
+
 #main p{
   text-align: justify;
 }
@@ -9,7 +7,10 @@ strong{
   font-weight:normal;
 }
 h1{
-  margin-bottom:40px;
+  margin-bottom:50px;
+  margin-top: 30px;
+  text-align: center;
+  font-size: 30px;
 }
 h1#name{
   color:white;
@@ -21,15 +22,31 @@ h1#name{
 section h2,#main-title{
   color:#4527a0;
   font-weight: bold;
+  margin-top: 30px;
+  margin-bottom: 30px;
 }
-
+section#section-contact{
+  padding-top:20px;
+}
 section#section-contact ul>li{
   list-style: none;
 }
 section#section-contact #contact-name{
   font-weight: bold;
 }
+.card-title-primary{
+  color:#4527a0;
+  font-size: 15px;
+  font-weight: bold;
+  text-align:center;
 
+}
+.card-title-info{
+  color:#FF3D00;
+  font-size: 15px;
+  font-weight: bold;
+  text-align:center;
+}
 
 .highlight-link{
   display:block;
@@ -44,7 +61,7 @@ section#section-contact #contact-name{
 }
 
 .icons-banner{
-  background: rgba(255, 61, 0, 1);
+  background: #f8f9fa;
   width: 100%;
   width: calc(100% + 30px);
   padding: 10px;
@@ -56,11 +73,12 @@ section#section-contact #contact-name{
   max-width: 1200px;
   margin:auto;
   justify-content: center;
+  flex-wrap: wrap;
 }
 .icons-banner>div>a{
   box-sizing: border-box;
   min-width:250px;
-  padding: 0 15px;
+  padding: 15px 15px;
   flex-grow:0;
   flex-shrink: 0;
 }
@@ -74,7 +92,7 @@ section#section-contact #contact-name{
   height:150px;
   position:relative;
   flex-direction: column;
-  border: 2px solid #FFFFFF;
+  border: 2px solid #FF3D00;
 }
 .icons-banner div.icon-card-body:after {
   content: "";
@@ -84,7 +102,7 @@ section#section-contact #contact-name{
   bottom:-2px;
   margin-left: -75px;
   width: 150px;
-  background: rgba(255, 61, 0, 1);
+  background: #f8f9fa;
   z-index: 1;
 }
 .icons-banner div.icon-card-body{
@@ -97,7 +115,8 @@ section#section-contact #contact-name{
   position: relative;
   text-align: center;
   z-index: 2;
-  color:white;
+  color: #FF3D00;
+  fill: currentColor;
 }
 
 /* Header */

@@ -1,0 +1,4 @@
+---
+layout: front
+title: Actualités
+---
