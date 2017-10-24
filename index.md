@@ -1,6 +1,6 @@
 ---
 layout: front
-title: Valoriser les synergies de proximité et les ressources locales pour construire des solutions nouvelles et inédites.
+title: Valoriser les synergies de proximité et les ressources locales pour construire des solutions nouvelles et inédites pour le commerce.
 
 ---
 
@@ -16,7 +16,7 @@ La dévitalisation commerciale des coeurs de villes représente un enjeu sociét
 
 Co-construction, Coordination, Coopération sont les principes actifs pour une redynamisation de nos centres-villes.
 
-Chacun poursuit des objectifs et met en oeuvre des stratégies qui lui sont propores. Au travers de l'impulsion d'un travail d'animation et de rapprochement, les intérêts des parties prenantes convergent et trouvent un terrain de coopération aux bénéfices de tous !
+Chacun poursuit des objectifs et met en oeuvre des stratégies qui lui sont propres. Au travers de l'impulsion d'un travail d'animation et de rapprochement, les intérêts des parties prenantes convergent et trouvent un terrain de coopération aux bénéfices de tous !
 
 <a href="/ensavoirplus/nosconvictions" type="button" class="btn btn-primary">En savoir plus</a>
 

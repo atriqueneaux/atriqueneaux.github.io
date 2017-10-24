@@ -1,9 +1,10 @@
 
 #main p{
   text-align: justify;
+  color: #000063;
 }
 strong{
-  color:#4527a0;
+  color:#ffc046;
   font-weight:normal;
 }
 h1{
@@ -18,9 +19,11 @@ h1#name{
   text-transform: uppercase;
   font-weight: bold;
 }
-
+h3{
+  color: #ffc046;
+}
 section h2,#main-title{
-  color:#4527a0;
+  color:#000063;
   font-weight: bold;
   margin-top: 30px;
   margin-bottom: 30px;
@@ -35,14 +38,14 @@ section#section-contact #contact-name{
   font-weight: bold;
 }
 .card-title-primary{
-  color:#4527a0;
+  color:#311b92;
   font-size: 15px;
   font-weight: bold;
   text-align:center;
 
 }
 .card-title-info{
-  color:#FF3D00;
+  color:#ff8f00;
   font-size: 15px;
   font-weight: bold;
   text-align:center;
