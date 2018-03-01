@@ -17,7 +17,8 @@ layout: default
     <h2> Actualités</h2>
     <div class="card-deck" id="recent-posts">
       {% for post in site.posts %}
-        <article class="card border-primary ">
+        <article class="card border-primary" style="min-width:20rem;margin-bottom:10px">
+          <div class="card-block">
           {%if post.image%}
             <img class="card-img-top" src="{{post.image}}" alt="{{post.title}}">
           {% else %}
@@ -31,6 +32,7 @@ layout: default
               {{ post.excerpt }}
             </div>
              <a href="{{post.url}}" class="btn btn-primary">En savoir plus</a>
+          </div>
           </div>
         </article>
       {% endfor %}
@@ -60,4 +62,4 @@ layout: default
         <div class="linkedin">&nbsp;</div>
       </a>
     </div>
-  </section> 
+  </section>
