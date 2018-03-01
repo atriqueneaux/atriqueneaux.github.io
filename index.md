@@ -6,7 +6,7 @@ title: Valoriser les synergies de proximité et les ressources locales pour cons
 
 ## L'entreprise
 
-La dévitalisation commerciale des coeurs de villes représente un enjeu sociétal fort. Son origine et ses conséquences dépassent le seul sujet de l'activité commerciale.
+La dévitalisation commerciale des coeurs de villes représente un **enjeu sociétal fort**. Son origine et ses conséquences dépassent le seul sujet de l'activité commerciale.
 
 <a href="/ensavoirplus/entreprise" type="button" class="btn btn-primary">En savoir plus</a>
 
@@ -14,9 +14,9 @@ La dévitalisation commerciale des coeurs de villes représente un enjeu sociét
 
 ## Nos convictions
 
-Co-construction, Coordination, Coopération sont les principes actifs pour une redynamisation de nos centres-villes.
+**Co-construction, Coordination, Coopération** sont les principes actifs pour une redynamisation de nos centres-villes.
 
-Chacun poursuit des objectifs et met en oeuvre des stratégies qui lui sont propres. Au travers de l'impulsion d'un travail d'animation et de rapprochement, les intérêts des parties prenantes convergent et trouvent un terrain de coopération aux bénéfices de tous !
+Chacun poursuit des objectifs et met en oeuvre des stratégies qui lui sont propres. Au travers de l'impulsion d'un **travail d'animation et de rapprochement**, les intérêts des parties prenantes convergent et trouvent un **terrain de coopération aux bénéfices de tous !**
 
 <a href="/ensavoirplus/nosconvictions" type="button" class="btn btn-primary">En savoir plus</a>
 

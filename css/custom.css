@@ -4,8 +4,8 @@
   color: #000063;
 }
 strong{
-  color:#ffc046;
-  font-weight:normal;
+  color:#F7952B;
+  font-weight:bold;
 }
 h1{
   margin-bottom:50px;
@@ -20,7 +20,7 @@ h1#name{
   font-weight: bold;
 }
 h3{
-  color: #ffc046;
+  color: #F7952B;
 }
 section h2,#main-title{
   color:#000063;
@@ -38,7 +38,7 @@ section#section-contact #contact-name{
   font-weight: bold;
 }
 .card-title-primary{
-  color:#311b92;
+  color:#000063;
   font-size: 15px;
   font-weight: bold;
   text-align:center;
@@ -95,7 +95,7 @@ section#section-contact #contact-name{
   height:150px;
   position:relative;
   flex-direction: column;
-  border: 2px solid #FF3D00;
+  border: 2px solid #F7952B;
 }
 .icons-banner div.icon-card-body:after {
   content: "";
@@ -118,7 +118,7 @@ section#section-contact #contact-name{
   position: relative;
   text-align: center;
   z-index: 2;
-  color: #FF3D00;
+  color: #F7952B  ;
   fill: currentColor;
 }
 
